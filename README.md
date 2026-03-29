@@ -67,6 +67,7 @@ python as.py
 * `Frequencyspectrum.png` → Frequency spectrum
 * `Spectrogram.png` → Spectrogram
 * `CNNarchitecturediagram.png` → CNN architecture diagram
+* `Finalgraph.png` → Final Ouput
 ---
 
 ## Result
