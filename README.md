@@ -1,6 +1,6 @@
 # Financial Time Series Forecasting using CNN
 
-**Name:** MUHAMMED JIYAD U.
+**Name:** MUHAMMED JIYAD U  
 **University Registration Number:** LTCR24CS074
 
 ## Overview
@@ -77,6 +77,3 @@ python as.py
 * High-frequency fluctuations are harder to predict due to noise
 
 ---
----
-
-## ⭐ If you found this useful, consider giving a star!
