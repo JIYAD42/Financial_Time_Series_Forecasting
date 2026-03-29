@@ -1,16 +1,16 @@
-# 📈 Financial Time Series Forecasting using CNN
+# Financial Time Series Forecasting using CNN
 
 **Name:** MUHAMMED JIYAD U
 **University Registration Number:** LTCR24CS074
 
-## 📌 Overview
+## Overview
 
 This project uses **signal processing (STFT)** and **deep learning (CNN)** to predict stock prices.
 Financial time series data is converted into a **spectrogram**, which is then used as input to a CNN model.
 
 ---
 
-## ⚙️ Features
+## Features
 
 * Stock data collection (Yahoo Finance)
 * Time series normalization
@@ -20,7 +20,7 @@ Financial time series data is converted into a **spectrogram**, which is then us
 
 ---
 
-## 📊 Outputs
+## Outputs
 
 * Time Series Plot
 * Frequency Spectrum
@@ -30,7 +30,7 @@ Financial time series data is converted into a **spectrogram**, which is then us
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### 1. Clone Repository
 
@@ -59,7 +59,7 @@ python as.py
 
 ---
 
-## 📁 Files
+## Files
 
 * `as.py` → Main code
 * `README.md` → Documentation
@@ -69,7 +69,7 @@ python as.py
 * `CNN architecture diagram.png` → CNN architecture diagram
 ---
 
-## 📌 Result
+## Result
 
 * The CNN model is able to capture **general trends** in stock prices
 * Predictions are smoother compared to actual values
