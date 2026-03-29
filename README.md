@@ -1,6 +1,6 @@
 # Financial Time Series Forecasting using CNN
 
-**Name:** MUHAMMED JIYAD U
+**Name:** MUHAMMED JIYAD U.
 **University Registration Number:** LTCR24CS074
 
 ## Overview
