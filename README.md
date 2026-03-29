@@ -66,7 +66,7 @@ python as.py
 * `Timeseriesplot.png` → Time series plot
 * `Frequencyspectrum.png` → Frequency spectrum
 * `Spectrogram.png` → Spectrogram
-* `CNN architecture diagram.png` → CNN architecture diagram
+* `CNNarchitecturediagram.png` → CNN architecture diagram
 ---
 
 ## Result
